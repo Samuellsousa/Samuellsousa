@@ -12,10 +12,10 @@
 
 ### 📊 Meu Painel GitHub
 
-<p align="center">
+<p align="end">
   <img src="https://github-readme-stats.vercel.app/api?username=Samuellsousa&show_icons=true&theme=dracula&border_radius=8&hide_border=false" width="40%" />
 </p>
-<p align="center">
+<p align="end">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellsousa&layout=compact&theme=dracula&border_radius=8&hide_border=false" width="40%" />
 </p>
 
