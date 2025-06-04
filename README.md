@@ -10,6 +10,15 @@
 
 ---
 
+### 📊 Meu Painel GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samuellsousa&show_icons=true&theme=dracula&border_radius=12&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellsousa&layout=compact&theme=dracula&border_radius=12&hide_border=false" width="48%" />
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 ![Samuel GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samuellsousa&show_icons=true&theme=dracula)
