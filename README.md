@@ -12,17 +12,12 @@
 
 ### 📊 Meu Painel GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samuellsousa&show_icons=true&theme=dracula&border_radius=12&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellsousa&layout=compact&theme=dracula&border_radius=12&hide_border=false" width="48%" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-![Samuel GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samuellsousa&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellsousa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samuellsousa&show_icons=true&theme=dracula&border_radius=8&hide_border=false" width="70%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellsousa&layout=compact&theme=dracula&border_radius=8&hide_border=false" width="70%" />
+</p>
 
 ---
 
