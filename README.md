@@ -71,5 +71,5 @@ Figma, Trello, Canva
 
 ---
 
-📫 **Contato:** samuellsousa.dev@gmail.com  
+📫 **Contato:** samuelldev@gmail.com  
 📍 **Localização:** Teresina - PI, Brasil
