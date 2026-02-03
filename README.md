@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Samuel Gonçalves
+# 👨‍💻 Samuel Sousa
 ### Desenvolvedor Full Stack
 
 *Transformando ideias em soluções com código limpo, foco em performance e paixão por tecnologia.*
